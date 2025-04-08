@@ -1,0 +1,10 @@
+
+
+
+Common models:
+Linear Models: Linear regression, logistic regression.
+Tree-based Models: Decision trees, Random Forests, Gradient Boosting Machines.
+Deep Learning: Neural Networks (for complex problems like image recognition).
+SVM, K-NN, etc.
+
+
